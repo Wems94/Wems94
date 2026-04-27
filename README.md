@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>// data professional</sub>
+<sub>data professional</sub>
 
 # WILLIAM SEBASTIÃO
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Sebasti%C3%A3o-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-sebasti%C3%A3o-440656124/)
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-00ff88?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-238636?style=flat-square&logoColor=white)
 &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-@Wems94-161b22?style=flat-square&logo=github&logoColor=white)
 &nbsp;
@@ -18,9 +18,9 @@
 
 </div>
 
----
+<br/>
 
-## `// About`
+<h2>▸ About</h2>
 
 > Data professional at the intersection of **Analytics Engineering** and **Data Analytics**, with experience in high-complexity environments. My focus is building **end-to-end data solutions** — from ingestion and transformation to modeling and analytical delivery.
 >
@@ -30,7 +30,7 @@
 
 ---
 
-## `// Core Stack`
+<h2>▸ Core Stack</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
 
 ---
 
-## `// Skills & Expertise`
+<h2>▸ Skills & Expertise</h2>
 
 **☁️ Cloud & Architecture**
 
@@ -79,9 +79,9 @@
 
 **🛡️ Governance & Tools**
 
-![Data Governance](https://img.shields.io/badge/Data_Governance-00ff88?style=flat-square&logoColor=black)
-![Data Quality](https://img.shields.io/badge/Data_Quality-00ff88?style=flat-square&logoColor=black)
-![AI Tools](https://img.shields.io/badge/AI_Tools-00ff88?style=flat-square&logoColor=black)
+![Data Governance](https://img.shields.io/badge/Data_Governance-4ade80?style=flat-square&logoColor=black)
+![Data Quality](https://img.shields.io/badge/Data_Quality-4ade80?style=flat-square&logoColor=black)
+![AI Tools](https://img.shields.io/badge/AI_Tools-4ade80?style=flat-square&logoColor=black)
 ![Excel](https://img.shields.io/badge/MS_Excel-5a8aaa?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Google_Sheets-5a8aaa?style=flat-square&logo=googlesheets&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-5a8aaa?style=flat-square&logo=docker&logoColor=white)
@@ -90,17 +90,31 @@
 
 ---
 
-## `// GitHub Activity`
-
-![GitHub Snake](https://raw.githubusercontent.com/Wems94/Wems94/output/github-snake-dark.svg)
+<h2>▸ GitHub Activity</h2>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=040810&title_color=00d4ff&icon_color=7b2fff&text_color=9ab8d4&border_color=1a3a5c" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Wems94&theme=darkhub&no-frame=true&column=6&margin-w=10&row=1&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=040810&title_color=00d4ff&icon_color=7b2fff&text_color=9ab8d4" />
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wems94&theme=github_dark&hide_border=true&bg_color=040810&title_color=00d4ff&text_color=9ab8d4&layout=compact&langs_count=8" />
+</div>
+
+<div align="center">
+  <img height="140" src="https://streak-stats.demolab.com/?user=Wems94&theme=dark&hide_border=true&background=040810&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideNums=9ab8d4&sideLabels=9ab8d4&dates=9ab8d4" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wems94/Wems94/output/github-snake-dark.svg" />
 </div>
 
 ---
 
-## `// Connect`
+<h2>▸ Connect</h2>
 
 <div align="center">
 
