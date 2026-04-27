@@ -1,89 +1,125 @@
-<h1 align="center">Hi, I'm William Sebastião 👋</h1>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wems94.Wems94&left_color=0d1117&right_color=0ea5e9" />
-</p>
-
-<p align="center">
-  <strong>Analytics Engineer · Data Analyst · Bridging Data & Business Decisions</strong>
-</p>
-
----
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,gcp,postgres,docker,git,github,linux,vscode,bash,azure" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-![GitHub Snake](https://raw.githubusercontent.com/Wems94/Wems94/output/github-snake-dark.svg)
-
----
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wems94&layout=compact&theme=github_dark&hide_border=true" />
+
+<sub>// data professional</sub>
+
+# WILLIAM SEBASTIÃO
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analytics+Engineer+%C2%B7+Data+Analyst+%C2%B7+S%C3%A3o+Paulo%2C+BR;Building+end-to-end+data+solutions;Bridging+Data+%26+Business+Decisions" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Sebasti%C3%A3o-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-sebasti%C3%A3o-440656124/)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-00ff88?style=flat-square)
+&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-@Wems94-161b22?style=flat-square&logo=github&logoColor=white)
+&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Wems94.Wems94&left_color=040810&right_color=00d4ff" />
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+## `// About`
 
-### 🧑‍💻 About Me
+> Data professional at the intersection of **Analytics Engineering** and **Data Analytics**, with experience in high-complexity environments. My focus is building **end-to-end data solutions** — from ingestion and transformation to modeling and analytical delivery.
+>
+> I bridge technical teams and business areas, translating complex problems into clear, actionable data solutions. I care about making data **reliable**, **scalable**, and truly used in business decisions.
 
-I'm a **data professional** working at the intersection of **Analytics Engineering** and **Data Analytics**, with experience in high-complexity environments.
+*"The value of data lies in building a solid foundation that enables fast, reliable, and scalable decision-making."*
 
-My focus is building **end-to-end data solutions** — from ingestion and transformation to modeling and delivery for analytical consumption. More than pipelines and dashboards, I care about making data **reliable, scalable, and truly used** in business decisions.
+---
 
-- 🔧 Data pipelines with **Python** and cloud-based tools
-- 🗄️ Data modeling for **BigQuery** and **Snowflake**
-- 📊 360° dashboards and analytical automation
-- 🔗 API integrations and multi-source data ingestion
-- 🎓 Chemical Engineer — **UNIFEI**
+## `// Core Stack`
 
-> *"The value of data lies in building a foundation that enables fast, reliable, and scalable decision-making."*
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,gcp,postgres,docker,git,github,linux,vscode,bash,azure" />
+  </a>
+</div>
 
-</td>
-<td valign="top" width="45%">
+---
 
-### 🌐 Let's Connect
+## `// Skills & Expertise`
 
-<a href="https://www.linkedin.com/in/william-sebasti%C3%A3o-440656124/" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:williameranio1994@gmail.com">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/gmail.svg" alt="Gmail"/>
-</a>
+**☁️ Cloud & Architecture**
 
-### ✨ What I Do
+![GCP](https://img.shields.io/badge/GCP-00d4ff?style=flat-square&logoColor=black&logo=googlecloud)
+![BigQuery](https://img.shields.io/badge/BigQuery-00d4ff?style=flat-square&logo=googlebigquery&logoColor=black)
+![Cloud Dataflow](https://img.shields.io/badge/Cloud_Dataflow-00d4ff?style=flat-square&logo=google&logoColor=black)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-00d4ff?style=flat-square&logo=google&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-00d4ff?style=flat-square&logo=snowflake&logoColor=black)
+![Lake House](https://img.shields.io/badge/Lake_House_Architecture-00d4ff?style=flat-square&logoColor=black)
+![Data Mesh](https://img.shields.io/badge/Data_Mesh-00d4ff?style=flat-square&logoColor=black)
 
-- 🏗️ Build **data pipelines** that scale
-- 📐 Design **data models** for strategic decisions
-- 🤝 Bridge **technical teams and business areas**
-- 📈 Automate analytical processes end-to-end
-- 🎯 Translate complex problems into clear data solutions
+**⚙️ Data Engineering**
 
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-7b2fff?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Advanced_SQL-7b2fff?style=flat-square&logo=postgresql&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-7b2fff?style=flat-square&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-7b2fff?style=flat-square&logo=apacheairflow&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Pipelines-7b2fff?style=flat-square&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-7b2fff?style=flat-square&logo=dbt&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-7b2fff?style=flat-square&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-7b2fff?style=flat-square&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-7b2fff?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas_%C2%B7_SciPy-7b2fff?style=flat-square&logo=pandas&logoColor=white)
+
+**📊 Analytics & BI**
+
+![Tableau](https://img.shields.io/badge/Tableau-ff6b35?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-ff6b35?style=flat-square&logo=powerbi&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-ff6b35?style=flat-square&logo=looker&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-ff6b35?style=flat-square&logo=googleanalytics&logoColor=white)
+![BI](https://img.shields.io/badge/Business_Intelligence-ff6b35?style=flat-square&logoColor=white)
+![Storytelling](https://img.shields.io/badge/Storytelling_with_Data-ff6b35?style=flat-square&logoColor=white)
+![Dashboard 360](https://img.shields.io/badge/Dashboard_360°-ff6b35?style=flat-square&logoColor=white)
+![Clustering](https://img.shields.io/badge/K--means_Clustering-ff6b35?style=flat-square&logoColor=white)
+![Quantitative](https://img.shields.io/badge/Quantitative_Analysis-ff6b35?style=flat-square&logoColor=white)
+
+**🛡️ Governance & Tools**
+
+![Data Governance](https://img.shields.io/badge/Data_Governance-00ff88?style=flat-square&logoColor=black)
+![Data Quality](https://img.shields.io/badge/Data_Quality-00ff88?style=flat-square&logoColor=black)
+![AI Tools](https://img.shields.io/badge/AI_Tools-00ff88?style=flat-square&logoColor=black)
+![Excel](https://img.shields.io/badge/MS_Excel-5a8aaa?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Sheets](https://img.shields.io/badge/Google_Sheets-5a8aaa?style=flat-square&logo=googlesheets&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5a8aaa?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5a8aaa?style=flat-square&logo=git&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP_Automation-5a8aaa?style=flat-square&logoColor=white)
+
+---
+
+## `// GitHub Activity`
+
+![GitHub Snake](https://raw.githubusercontent.com/Wems94/Wems94/output/github-snake-dark.svg)
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=040810&title_color=00d4ff&icon_color=7b2fff&text_color=9ab8d4&border_color=1a3a5c" />
+</div>
+
+---
+
+## `// Experience`
+
+| Period | Role | Company |
+|--------|------|---------|
+| `05/2024 → PRESENT` | **SSr Data Analyst** | Mercado Livre · São Paulo |
+| `06/2022 → 04/2024` | **Data Analyst** | Rappi · São Paulo |
+| `05/2021 → 05/2022` | **Data Analyst Intern** | Rappi · São Paulo |
+
+---
+
+## `// Connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-sebasti%C3%A3o-440656124/)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Chemical Engineer · UNIFEI &nbsp;|&nbsp; 🇧🇷 PT (Native) · EN (Intermediate) · ES (Intermediate)</sub>
+</div>
