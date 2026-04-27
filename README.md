@@ -100,16 +100,6 @@
 
 ---
 
-## `// Experience`
-
-| Period | Role | Company |
-|--------|------|---------|
-| `05/2024 → PRESENT` | **SSr Data Analyst** | Mercado Livre · São Paulo |
-| `06/2022 → 04/2024` | **Data Analyst** | Rappi · São Paulo |
-| `05/2021 → 05/2022` | **Data Analyst Intern** | Rappi · São Paulo |
-
----
-
 ## `// Connect`
 
 <div align="center">
