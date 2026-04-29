@@ -33,9 +33,7 @@
 <h2>▸ Core Stack</h2>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,gcp,postgres,docker,git,github,linux,vscode,bash,azure" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Wems94/Wems94/output/core-stack-animated.svg" />
 </div>
 
 ---
