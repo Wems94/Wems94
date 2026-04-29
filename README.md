@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>data professional</sub>
+<img src="assets/logo.png" width="120" alt="WEMS logo" />
 
 # WILLIAM SEBASTIÃO
 
