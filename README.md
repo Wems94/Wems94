@@ -4,7 +4,7 @@
 
 # WILLIAM SEBASTIÃO
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analytics+Engineer+%C2%B7+Data+Analyst+%C2%B7+S%C3%A3o+Paulo%2C+BR;Building+end-to-end+data+solutions;Bridging+Data+%26+Business+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analytics+Engineer+%C2%B7+Data+Engineer+%C2%B7+S%C3%A3o+Paulo%2C+BR;Building+end-to-end+data+solutions;Bridging+Data+%26+Business+Decisions" alt="Typing SVG" />
 
 <br/>
 
