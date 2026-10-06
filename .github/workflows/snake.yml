@@ -21,7 +21,7 @@ jobs:
           python3 - <<'EOF'
           import requests, base64, re, os
 
-          icons = "py,gcp,postgres,docker,git,github"
+          icons = "py,gcp,aws,git,github,githubactions,notion"
           r = requests.get(f"https://skillicons.dev/icons?i={icons}", timeout=30)
           svg = r.text
 
