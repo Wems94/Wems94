@@ -80,8 +80,8 @@ Data professional at the intersection of **Analytics Engineering** and **Data An
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9" />
-    <img height="155" alt="William's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=0969da&icon_color=7b2fff&text_color=24292f" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9" />
+    <img height="155" alt="William's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0969da&icon_color=7b2fff&text_color=24292f" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wems94&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9" />
