@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -15,21 +15,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Wems94
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
       - name: Generate animated Core Stack SVG
         run: |
           pip install requests -q
           python3 - <<'EOF'
           import requests, base64, re, os
 
-          icons = "py,gcp,postgres,docker,git,github,linux,vscode,bash,azure"
+          icons = "py,gcp,postgres,docker,git,github"
           r = requests.get(f"https://skillicons.dev/icons?i={icons}", timeout=30)
           svg = r.text
 
@@ -43,16 +35,20 @@ jobs:
                 .m {{ animation: s 22s linear infinite; }}
                 @keyframes s {{ 0% {{ transform: translateX(0); }} 100% {{ transform: translateX(-{W}px); }} }}
               </style>
-              <clipPath id="c"><rect width="{W}" height="{H}"/></clipPath>
-              <linearGradient id="fl" x1="0%" x2="100%"><stop offset="0%" stop-color="#040810"/><stop offset="12%" stop-color="#040810" stop-opacity="0"/></linearGradient>
-              <linearGradient id="fr" x1="0%" x2="100%"><stop offset="88%" stop-color="#040810" stop-opacity="0"/><stop offset="100%" stop-color="#040810"/></linearGradient>
+              <linearGradient id="g" x1="0%" x2="100%">
+                <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+                <stop offset="12%" stop-color="#fff"/>
+                <stop offset="88%" stop-color="#fff"/>
+                <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+              </linearGradient>
+              <mask id="f"><rect width="{W}" height="{H}" fill="url(#g)"/></mask>
             </defs>
-            <g clip-path="url(#c)" class="m">
-              <image href="data:image/svg+xml;base64,{b64}" width="{W}" height="{H}"/>
-              <image href="data:image/svg+xml;base64,{b64}" x="{W}" width="{W}" height="{H}"/>
+            <g mask="url(#f)">
+              <g class="m">
+                <image href="data:image/svg+xml;base64,{b64}" width="{W}" height="{H}"/>
+                <image href="data:image/svg+xml;base64,{b64}" x="{W}" width="{W}" height="{H}"/>
+              </g>
             </g>
-            <rect width="{W}" height="{H}" fill="url(#fl)"/>
-            <rect width="{W}" height="{H}" fill="url(#fr)"/>
           </svg>"""
 
           os.makedirs("dist", exist_ok=True)

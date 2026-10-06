@@ -31,7 +31,7 @@ Motivação: ver `proposal.md` (seção Why). Requisitos: ver `specs/`.
 | **B. Equilibrada (recomendada)** | Mantém logo, paleta ciano/roxo e o "Core Stack" animado (corrigido); acrescenta projetos; corta troféus, streak, cobrinha e visitas | Preserva a identidade atual e ganha credibilidade | Ainda depende de 1–2 imagens geradas |
 | **C. Atual + ajustes** | Mantém todos os widgets e só adiciona projetos e alt texts | Menor esforço | Continua parecendo "perfil de iniciante"; ruído visual |
 
-**Escolha: B.** A identidade visual (logo, ciano `#00d4ff`) já é um diferencial; o que tira profissionalismo é o excesso de elementos, não o estilo.
+**Escolha: B (confirmada pelo William).** A identidade visual (logo, ciano `#00d4ff`) já é um diferencial; o que tira profissionalismo é o excesso de elementos, não o estilo.
 
 ### D2. Estrutura de seções (ordem final)
 1. Cabeçalho: logo, nome, headline em texto, typing SVG opcional, badges de contato (LinkedIn, e-mail, CV).

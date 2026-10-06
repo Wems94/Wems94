@@ -1,127 +1,96 @@
 <div align="center">
 
-<img src="assets/logo.png" width="120" alt="WEMS logo" />
+<img src="assets/logo.png" width="110" alt="WEMS — William Sebastião logo" />
 
-# WILLIAM SEBASTIÃO
+# William Sebastião
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Analytics+Engineer+%C2%B7+Data+Engineer+%C2%B7+S%C3%A3o+Paulo%2C+BR;Building+end-to-end+data+solutions;Bridging+Data+%26+Business+Decisions" alt="Typing SVG" />
+**Analytics Engineer · Data Engineer** — São Paulo, Brazil<br/>
+End-to-end data solutions on GCP: from ingestion and modeling to analytics people actually use.
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+end-to-end+data+solutions;Reliable+%C2%B7+Scalable+%C2%B7+Used+in+decisions;Bridging+Data+%26+Business" alt="Building end-to-end data solutions · Reliable, scalable and used in decisions · Bridging data and business" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Sebasti%C3%A3o-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-sebasti%C3%A3o-440656124/)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-238636?style=flat-square&logoColor=white)
-&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-@Wems94-161b22?style=flat-square&logo=github&logoColor=white)
-&nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Wems94.Wems94&left_color=040810&right_color=00d4ff" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Sebasti%C3%A3o-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-sebasti%C3%A3o-440656124/)
+<!-- TODO: adicionar e-mail e CV quando estiverem definidos, ex.:
+[![Email](https://img.shields.io/badge/Email-seu%40email.com-00D4FF?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-7B2FFF?style=flat-square&logo=readdotcv&logoColor=white)](LINK_DO_CV)
+-->
 
 </div>
 
-<br/>
+## ▸ About
 
-<h2>▸ About</h2>
+Data professional at the intersection of **Analytics Engineering** and **Data Analytics**, working in high-complexity environments. I build **end-to-end data solutions** — ingestion, transformation, modeling and analytical delivery — and bridge technical teams and business areas so that data is **reliable**, **scalable** and actually used in decisions.
 
-> Data professional at the intersection of **Analytics Engineering** and **Data Analytics**, with experience in high-complexity environments. My focus is building **end-to-end data solutions** — from ingestion and transformation to modeling and analytical delivery.
->
-> I bridge technical teams and business areas, translating complex problems into clear, actionable data solutions. I care about making data **reliable**, **scalable**, and truly used in business decisions.
+<!-- TODO: trocar/complementar com 2–3 resultados quantificados, ex.:
+- Cut daily pipeline runtime from X h to Y min by migrating to BigQuery + dbt
+- Built the KPI layer behind a 360° dashboard used by N business areas
+- Automated X reports, saving ~Y hours/month
+-->
 
-*"The value of data lies in building a solid foundation that enables fast, reliable, and scalable decision-making."*
+**Currently**
+- 💼 Open to **Analytics Engineer / Data Engineer** opportunities
+- 🔧 Building pipelines and models on **GCP · BigQuery · dbt · Airflow**
+- 📚 Deepening **data quality and governance** practices
 
----
+## ▸ Featured Projects
 
-<h2>▸ Core Stack</h2>
+<!-- TODO: preencher 2–4 projetos (problema, stack e resultado) e remover este comentário em volta da tabela.
+
+| Project | Problem | Stack | Result |
+|---|---|---|---|
+| [project-name](https://github.com/Wems94/project-name) | One sentence on the problem solved | BigQuery · dbt · Airflow | Measurable outcome or key learning |
+| [project-name](https://github.com/Wems94/project-name) | One sentence on the problem solved | Python · Pandas · Tableau | Measurable outcome or key learning |
+-->
+
+*Selected projects coming soon — see my [repositories](https://github.com/Wems94?tab=repositories).*
+
+## ▸ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wems94/Wems94/output/core-stack-animated.svg" />
+  <img src="https://raw.githubusercontent.com/Wems94/Wems94/output/core-stack-animated.svg" alt="Core stack: Python, Google Cloud, PostgreSQL, Docker, Git, GitHub" />
 </div>
 
----
+**Cloud & Data Platforms**<br/>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-<h2>▸ Skills & Expertise</h2>
+**Data Engineering**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**☁️ Cloud & Architecture**
+**Analytics & BI**<br/>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-![GCP](https://img.shields.io/badge/GCP-00d4ff?style=flat-square&logoColor=black&logo=googlecloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-00d4ff?style=flat-square&logo=googlebigquery&logoColor=black)
-![Cloud Dataflow](https://img.shields.io/badge/Cloud_Dataflow-00d4ff?style=flat-square&logo=google&logoColor=black)
-![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-00d4ff?style=flat-square&logo=google&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-00d4ff?style=flat-square&logo=snowflake&logoColor=black)
-![Lake House](https://img.shields.io/badge/Lake_House_Architecture-00d4ff?style=flat-square&logoColor=black)
-![Data Mesh](https://img.shields.io/badge/Data_Mesh-00d4ff?style=flat-square&logoColor=black)
+**Also:** Lakehouse & Data Mesh architecture · ETL/ELT & event-driven pipelines · Data modeling & warehousing · API integration · Data quality & governance · Quantitative analysis & K-means clustering · Data storytelling
 
-**⚙️ Data Engineering**
-
-![Python](https://img.shields.io/badge/Python-7b2fff?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/Advanced_SQL-7b2fff?style=flat-square&logo=postgresql&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL_%2F_ELT-7b2fff?style=flat-square&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-7b2fff?style=flat-square&logo=apacheairflow&logoColor=white)
-![Event-Driven](https://img.shields.io/badge/Event--Driven_Pipelines-7b2fff?style=flat-square&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-7b2fff?style=flat-square&logo=dbt&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-7b2fff?style=flat-square&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-7b2fff?style=flat-square&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-7b2fff?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas_%C2%B7_SciPy-7b2fff?style=flat-square&logo=pandas&logoColor=white)
-
-**📊 Analytics & BI**
-
-![Tableau](https://img.shields.io/badge/Tableau-ff6b35?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-ff6b35?style=flat-square&logo=powerbi&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-ff6b35?style=flat-square&logo=looker&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-ff6b35?style=flat-square&logo=googleanalytics&logoColor=white)
-![BI](https://img.shields.io/badge/Business_Intelligence-ff6b35?style=flat-square&logoColor=white)
-![Storytelling](https://img.shields.io/badge/Storytelling_with_Data-ff6b35?style=flat-square&logoColor=white)
-![Dashboard 360](https://img.shields.io/badge/Dashboard_360°-ff6b35?style=flat-square&logoColor=white)
-![Clustering](https://img.shields.io/badge/K--means_Clustering-ff6b35?style=flat-square&logoColor=white)
-![Quantitative](https://img.shields.io/badge/Quantitative_Analysis-ff6b35?style=flat-square&logoColor=white)
-
-**🛡️ Governance & Tools**
-
-![Data Governance](https://img.shields.io/badge/Data_Governance-4ade80?style=flat-square&logoColor=black)
-![Data Quality](https://img.shields.io/badge/Data_Quality-4ade80?style=flat-square&logoColor=black)
-![AI Tools](https://img.shields.io/badge/AI_Tools-4ade80?style=flat-square&logoColor=black)
-![Excel](https://img.shields.io/badge/MS_Excel-5a8aaa?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Sheets](https://img.shields.io/badge/Google_Sheets-5a8aaa?style=flat-square&logo=googlesheets&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-5a8aaa?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5a8aaa?style=flat-square&logo=git&logoColor=white)
-![SMTP](https://img.shields.io/badge/SMTP_Automation-5a8aaa?style=flat-square&logoColor=white)
-
----
-
-<h2>▸ GitHub Activity</h2>
+## ▸ GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wems94&theme=darkhub&no-frame=true&column=6&margin-w=10&row=1&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=040810&title_color=00d4ff&icon_color=7b2fff&text_color=9ab8d4" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wems94&theme=github_dark&hide_border=true&bg_color=040810&title_color=00d4ff&text_color=9ab8d4&layout=compact&langs_count=8" />
-</div>
-
-<div align="center">
-  <img height="140" src="https://streak-stats.demolab.com/?user=Wems94&theme=dark&hide_border=true&background=040810&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideNums=9ab8d4&sideLabels=9ab8d4&dates=9ab8d4" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Wems94/Wems94/output/github-snake-dark.svg" />
-</div>
-
----
-
-<h2>▸ Connect</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-sebasti%C3%A3o-440656124/)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9" />
+    <img height="155" alt="William's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Wems94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=0969da&icon_color=7b2fff&text_color=24292f" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wems94&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&title_color=00d4ff&text_color=c9d1d9" />
+    <img height="155" alt="William's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wems94&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&title_color=0969da&text_color=24292f" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Chemical Engineer · UNIFEI &nbsp;|&nbsp; 🇧🇷 PT (Native) · EN (Intermediate) · ES (Intermediate)</sub>
+  <sub>Chemical Engineer · UNIFEI &nbsp;|&nbsp; 🇧🇷 Portuguese (native) · English (intermediate) · Spanish (intermediate)</sub>
 </div>
